@@ -10,7 +10,7 @@ Không cần `dotenvy`, không cần `std::env::set_var`, chỉ cần một dòn
 
 ## Tại sao nên dùng `envfile_cargo`?
 
-| Tính năng                       | envfile_cargo      | dotenvy crate               |
+| Tính năng                       | envfile_cargo     | dotenvy crate               |
 | ------------------------------- | ----------------- | --------------------------- |
 | Zero dependencies               | Yes               | No                          |
 | Hỗ trợ comment `#`              | Yes               | Yes                         |
@@ -23,6 +23,7 @@ Không cần `dotenvy`, không cần `std::env::set_var`, chỉ cần một dòn
 ## Cài đặt
 
 ```bash
-cargo add awesome_env
+cargo add envfile-cargo
 ```
+
 # envfile
