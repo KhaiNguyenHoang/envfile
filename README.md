@@ -8,9 +8,9 @@ Không cần `dotenvy`, không cần `std::env::set_var`, chỉ cần một dòn
 [![License](https://img.shields.io/crates/l/awesome_env.svg)](https://crates.io/crates/awesome_env)
 [![Docs](https://docs.rs/awesome_env/badge.svg)](https://docs.rs/awesome_env)
 
-## Tại sao nên dùng `awesome_env`?
+## Tại sao nên dùng `envfile_cargo`?
 
-| Tính năng                       | awesome_env       | dotenvy crate               |
+| Tính năng                       | envfile_cargo      | dotenvy crate               |
 | ------------------------------- | ----------------- | --------------------------- |
 | Zero dependencies               | Yes               | No                          |
 | Hỗ trợ comment `#`              | Yes               | Yes                         |
