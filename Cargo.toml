@@ -1,0 +1,23 @@
+[package]
+name = "envfile"                                                  # TÊN PHẢI DUY NHẤT TRÊN CRATES.IO
+version = "0.1.0"
+edition = "2024"
+description = "A super fast and lightweight .env loader for Rust"
+authors = ["Tên Bạn khaiproject1234@gmail.com"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/khainguyenhoang/envfile"
+homepage = "https://github.com/khainguyenhoang/envfile"
+documentation = "https://docs.rs/envfile"
+keywords = ["env", "dotenv", "configuration", "environment"]
+categories = ["config", "development-tools"]
+readme = "README.md"
+
+# Tùy chọn: nếu là lib (mặc định)
+[lib]
+name = "envfile"
+path = "src/lib.rs"
+
+# Nếu có binary
+# [[bin]]
+# name = "mycli"
+# path = "src/main.rs"
