@@ -25,3 +25,4 @@ Không cần `dotenvy`, không cần `std::env::set_var`, chỉ cần một dòn
 ```bash
 cargo add awesome_env
 ```
+# envfile
