@@ -1,6 +1,6 @@
 [package]
 name = "envfile-cargo"                                            # TÊN PHẢI DUY NHẤT TRÊN CRATES.IO
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A super fast and lightweight .env loader for Rust"
 authors = ["Tên Bạn khaiproject1234@gmail.com"]
